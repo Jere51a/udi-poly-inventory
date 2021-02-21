@@ -1,5 +1,5 @@
 {
-    "name": "ISY-Inventory",
+    "name": "DJL-Inventory",
     "docs": "https://github.com/simplextech/udi-poly-inventory",
     "type": "python3",
     "executable": "inventory-poly.py",
