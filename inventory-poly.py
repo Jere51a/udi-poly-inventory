@@ -17,7 +17,7 @@ LOGGER = polyinterface.LOGGER
 class Controller(polyinterface.Controller):
     def __init__(self, polyglot):
         super(Controller, self).__init__(polyglot)
-        self.name = 'ISY Inventory'
+        self.name = 'ISY Inventory X'
         self.user = None
         self.password = None
         self.isy_ip = None
